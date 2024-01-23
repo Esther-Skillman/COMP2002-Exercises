@@ -1,1 +1,1 @@
-# COMP2002-Practice
+# COMP2002-Exercises
